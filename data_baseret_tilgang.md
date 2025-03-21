@@ -36,6 +36,14 @@ Den data baserede løsning/process tilgang
   arbejdet.
 - Besvare chefens spørgsmål indenfor sit område og giver anbefalinger
 
+## Entreprise-arkitekt
+
+- Har overblik over hele forretningens processer og job-funktioner
+- Sikre at organisationen har muligheden for at løse de strategiske mål som
+  chefen beslutter
+- Besvare chefens spørgsmål indenfor sit område og giver anbefalinger, der sikre
+  at organisationen kan løfte udviklingsopgaverne
+
 ## DevOps
 
 - Sikre at IT-systemerne kører, monitorerer og opdatere
